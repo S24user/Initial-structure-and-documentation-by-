@@ -1,1 +1,1 @@
-# Initial-structure-and-documentation-by-
+#sensory-adaptive-gpt-architecture
